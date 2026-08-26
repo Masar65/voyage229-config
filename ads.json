@@ -1,0 +1,16 @@
+[
+  {
+    "id": "premium_bus_1",
+    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800",
+    "actionUrl": "tel:0165001033",
+    "title": "VOTRE MARQUE ICI",
+    "buttonText": "RÉSERVER"
+  },
+  {
+    "id": "premium_bus_2",
+    "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=800",
+    "actionUrl": "mailto:ads@voyage229.com",
+    "title": "DEVENEZ PARTENAIRE",
+    "buttonText": "CONTACTER"
+  }
+]
